@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "version": "1.0",
+  "build": 1,
+  "minimumMacOSVersion": "26.4",
+  "publishedAt": "2026-07-23T17:00:00Z",
+  "downloadURL": "https://github.com/rtessno/phrasepilot/releases",
+  "releaseNotesURL": "https://github.com/rtessno/phrasepilot/releases"
+}
