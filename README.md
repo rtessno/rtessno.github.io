@@ -1,3 +1,5 @@
 # rtessno.github.io
 
-Hosts the PhrasePilot update-manifest alias at `/phrasepilot/updates/stable.json`.
+Hosts Astramar update-manifest aliases:
+- `/astramar/updates/stable.json` (preferred)
+- `/phrasepilot/updates/stable.json` (permanent compatibility alias)
